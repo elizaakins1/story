@@ -1,0 +1,7 @@
+#for comments
+# we use .gitignore to prevent files we do not
+# want uploaded to a remote repository to not be 
+# uploaded there.
+#ignore any files that end with .ht
+*.ht
+computer-science
